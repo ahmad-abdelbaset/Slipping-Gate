@@ -37,6 +37,8 @@ In Slipping Gate, players aim to maneuver an object (represented by a square) fr
 - Push button
 - Buzzer
 - Wires
+  
+<img src="circuit.jpg" width="500">
 
 ### Steps:
 1. Install Thonny IDE on your system.
