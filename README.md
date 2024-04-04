@@ -1,12 +1,17 @@
-
-
 # Slipping Gate - ESP32 Single Button Game
 
 Slipping Gate is a simple yet engaging game created as part of an internal competition at Intel, challenging employees to design entertaining games using only a single push button with ESP32 microcontroller.
 
+<img src="sbg.jpg" width="400">
+
+<img src="sbg2.jpg" width="400">
+
+
 ## Game Overview
 
 In Slipping Gate, players aim to maneuver an object (represented by a square) from point A to point B while avoiding contact with moving lines (gates) as quickly as possible. By clicking on the button, the square will move to the left.
+
+<a href= "https://youtu.be/QJ4-QweElRk">Click Here to see the Video See the Video</a> 
 
 ## Hardware and Software Requirements
 
